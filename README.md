@@ -12,7 +12,7 @@ github "littleMeaning/Tabulation" ~> 1.0.1
 
 ## Feature
 
-![](https://github.com/littleMeaning/Tabulation/blob/master/show.gif=314x)
+![](https://github.com/littleMeaning/Tabulation/blob/master/show.gif =314x)
 
 #### 复用
 支持复用，1000*1000的表格也可以流畅滑动。
