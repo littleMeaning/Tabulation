@@ -13,7 +13,7 @@ github "littleMeaning/Tabulation" ~> 1.0.1
 ## Feature
 
 <p align="center">
-  <img style='width:314px;' src='https://github.com/littleMeaning/Tabulation/blob/master/show.gif'/>
+  <img width="314px" src='https://github.com/littleMeaning/Tabulation/blob/master/show.gif'/>
 </p>
 
 #### 复用
