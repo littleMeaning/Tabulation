@@ -12,33 +12,24 @@ github "littleMeaning/Tabulation" ~> 1.0.1
 
 ## Feature
 
-### 复用
+<p align="center">
+  <img src='https://github.com/littleMeaning/Tabulation/blob/master/show.gif'/>
+</p>
+
+#### 复用
 支持复用，1000*1000的表格也可以流畅滑动。
 
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/1.gif)
-
-### 样式
+#### 样式
 样式设置，支持行列间距、边界线宽、颜色及行列锁定等设置。
 
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/2.gif)
-
-
-### 合并单元格
+#### 合并单元格
 支持合并单元格，可以用于设置复合表头
 
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/3.gif)
-
-### 自定义单元格
+#### 自定义单元格
 支持扩展，可以自定义单元格 cell。
 
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/4.png)
-
-### 响应事件
+#### 响应事件
 支持点击事件，可以用于点击表头进行排序等功能。
 
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/5.gif)
-
-### 自适应
+#### 自适应
 支持行高和列宽的自适应，在单元格文本长度不确定的情况下展示最佳的单元格大小。
-
-![image](https://github.com/littleMeaning/Tabulation/blob/master/Resources/6.gif)
